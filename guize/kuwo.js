@@ -2,11 +2,11 @@
 KuWo music unlock vip
 
 QX1.0.0:
-^https?:\/\/vip1\.kuwo\.cn\/(vip\/v2\/user\/vip|vip\/spi/mservice) url script-response-body https://raw.githubusercontent.com/yang971105/Gx/main/kuwo.js
+^https?:\/\/vip1\.kuwo\.cn\/(vip\/v2\/user\/vip|vip\/spi/mservice) url script-response-body https://raw.githubusercontent.com/yang971105/Gx/main/guize/kuwo.js
 
 Surge4.0:
-http-response ^https?:\/\/vip1\.kuwo\.cn\/(vip\/v2\/user\/vip|vip\/spi/mservice) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/yang971105/Gx/main/kuwo.js
-http-request ^https?:\/\/musicpay\.kuwo.cn\/music\.pay\?uid=\d+ script-path=https://raw.githubusercontent.com/yang971105/Gx/main/kuwo.js
+http-response ^https?:\/\/vip1\.kuwo\.cn\/(vip\/v2\/user\/vip|vip\/spi/mservice) requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/yang971105/Gx/main/guize/kuwo.js
+http-request ^https?:\/\/musicpay\.kuwo.cn\/music\.pay\?uid=\d+ script-path=https://raw.githubusercontent.com/yang971105/Gx/main/guize/kuwo.js
 
 MITM = vip1.kuwo.cn
 */
