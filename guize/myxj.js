@@ -1,6 +1,6 @@
 /*
 [rewrite_local]
-#美颜相机一次性解锁内购（by黑黑酱）
+#美颜相机一次性解锁内购
 ^https:\/\/api\.meiyan\.com\/iap\/verify\.json url script-response-body myxj.js
 
 Surge4.0: https://api.meiyan.com/iap/verify.json
