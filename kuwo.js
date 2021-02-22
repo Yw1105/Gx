@@ -19,10 +19,10 @@ const vip = '/vip/v2/user/vip';
 const time = '/vip/spi/mservice';
 
 if (url.indexOf(vip) != -1) {
-	obj.data["isNewUser"] = "2";
+	obj.data["isNewUser"] = "3";
 	obj.data["vipLuxuryExpire"] = "11064787085000";
 	obj.data["time"] = "11064787085000";
-	obj.data["isYearUser"] = "2";
+	obj.data["isYearUser"] = "3";
 	obj.data["vipmExpire"] = "11064787085000";
 	obj.data["vipOverSeasExpire"] = "11064787085000";
 	obj.data["vipExpire"] = "11064787085000";
