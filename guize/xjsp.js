@@ -12,7 +12,6 @@ if ($request.url.indexOf("/ucp/index") != -1){
   obj.data.uinfo.play_daily_remainders = "999";
   obj.data.uinfo["next_upgrade_need"] = "0";
   obj.data.uinfo.minivod_play_daily_remainders : 999;
-  obj.data.uinfo.minivod_down_daily_remainders : 30；
   obj.data.user.isvip = "1";
   obj.data.user.gicon = "V5";
   obj.data.user.gid = "5";
