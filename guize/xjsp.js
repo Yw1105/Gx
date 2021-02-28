@@ -8,8 +8,8 @@ Surge & QX MITM = ios.fuliapps.com, apple.fuliapps.com, ios.xiangjiaoapps.com, a
 
 var obj = JSON.parse($response.body);
 if ($request.url.indexOf("/ucp/index") != -1){
-  obj.data.uinfo.down_daily_remainders = "666";
-  obj.data.uinfo.play_daily_remainders = "666";
+  obj.data.uinfo.down_daily_remainders = "999";
+  obj.data.uinfo.play_daily_remainders = "999";
   obj.data.uinfo["next_upgrade_need"] = "0";
   obj.data.user.isvip = "1";
   obj.data.user.gicon = "V5";
