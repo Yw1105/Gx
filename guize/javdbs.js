@@ -12,7 +12,7 @@
 hostname = yugedu.com
 
 
-https://jcapnred.com/?source=s8rvea
+https://jcapnred.com/?source=srz8aw
 
 */
 
