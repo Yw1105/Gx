@@ -13,7 +13,4 @@ shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.
 
 shadowsocks=MUSIC.DESPERADOJ.COM:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=Music 7
  
-name: Music 8, server: LOLICO.ME, port: 443, type: http, tls: false, skip-cert-verify: false
-name: Music 9, server: 106.52.127.72, port: 19951, type: http, tls: false, skip-cert-verify: false
-name: Music 10, server: 101.132.79.113, port: 23333, type: http, tls: false, skip-cert-verify: false
 
