@@ -5,9 +5,9 @@ http=MUSIC.GRIOUGES.CN:39000, over-tls=false, fast-open=false, udp-relay=false, 
 
 http=SALVAN.ICU:19980, over-tls=false, fast-open=false, udp-relay=false, tag=Music 3 x
 
-http= 116.62.110.149:5566, fast-open=false, udp-relay=false, tag=Music 4 v
+http= 116.62.110.149:5566, fast-open=false, udp-relay=false, tag=Music 4 
 
-http= 118.31.23.173:5566, fast-open=false, udp-relay=false, tag=Music 5 v
+http= 118.31.23.173:5566, fast-open=false, udp-relay=false, tag=Music 5 
 
 shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=Music 6 x
 
