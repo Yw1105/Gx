@@ -1,13 +1,13 @@
 
-http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=Music 1.
+http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=Music 1 x
 
-http=MUSIC.GRIOUGES.CN:39000, over-tls=false, fast-open=false, udp-relay=false, tag=Music 2
+http=MUSIC.GRIOUGES.CN:39000, over-tls=false, fast-open=false, udp-relay=false, tag=Music 2 x
 
 http=SALVAN.ICU:19980, over-tls=false, fast-open=false, udp-relay=false, tag=Music 3 x
 
-http= 116.62.110.149:5566, fast-open=false, udp-relay=false, tag=Music 4 x
+http= 116.62.110.149:5566, fast-open=false, udp-relay=false, tag=Music 4 v
 
-http=1.116.214.16:19980, over-tls=false, fast-open=false, udp-relay=false, tag=Music 5 x
+http= 118.31.23.173:5566, over-tls=false, fast-open=false, udp-relay=false, tag=Music 5 v
 
 shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=Music 6 x
 
