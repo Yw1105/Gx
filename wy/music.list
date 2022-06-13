@@ -1,18 +1,5 @@
 
-http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=Music 1 x
+http= 116.62.110.149:5566, fast-open=false, udp-relay=false, tag=网易云 1 
 
-http=MUSIC.GRIOUGES.CN:39000, over-tls=false, fast-open=false, udp-relay=false, tag=Music 2 x
+http= 118.31.23.173:5566, fast-open=false, udp-relay=false, tag=网易云 2 
 
-http=SALVAN.ICU:19980, over-tls=false, fast-open=false, udp-relay=false, tag=Music 3 x
-
-http= 116.62.110.149:5566, fast-open=false, udp-relay=false, tag=Music 4 
-
-http= 118.31.23.173:5566, fast-open=false, udp-relay=false, tag=Music 5 
-
-shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=Music 6 x
-
-shadowsocks=MUSIC.DESPERADOJ.COM:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=Music 7 x
- 
-http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=Music  8
-
-http=music.griouges.cn:39000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=Music  9
