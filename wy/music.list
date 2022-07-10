@@ -2,3 +2,5 @@
 http= 116.62.110.149:5566, fast-open=false, udp-relay=false, tag=网易云 1 
 
 http= 118.31.23.173:5566, fast-open=false, udp-relay=false, tag=网易云 2 
+
+http= 43.138.87.133:6655, fast-open=false, udp-relay=false, tag=网易云 3
