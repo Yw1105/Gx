@@ -5,8 +5,10 @@ http= 118.31.23.173:5566, fast-open=false, udp-relay=false, tag=网易云 2
 
 http= 43.138.87.133:6655, fast-open=false, udp-relay=false, tag=网易云 3X
 
-http=os.tencentcdn.net:25000,over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云4X
+http= music.swcc.xyz:9080,over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云4
 
 http=pc.tencentcdn.net:35000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云5X
 
 shadowsocks=101.132.192.212:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云6
+
+shadowsocks=101.132.192.212:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云7
