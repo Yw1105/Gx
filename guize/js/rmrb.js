@@ -1,3 +1,18 @@
+#!name=人民日报去广告
+#!desc=人民日报去广告
+#!homepage=https://github.com/deezertidal
+#!author=
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/rmrb.png
+
+
+^https:\/\/app\.peopleapp\.com\/Api\/\d+\/HomeApi\/getContentList url script-response-body https://raw.githubusercontent.com/irenemsIrenes/profiles/master/Quantumult/X/js/people-news.js
+
+
+hostname = app.peopleapp.com
+
+
+
+
 /**
  * @supported 00D3992C8F27 8B87B7345981
  */
