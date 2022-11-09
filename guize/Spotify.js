@@ -2,24 +2,24 @@
 #  部分解锁premium 需iOS15 ,建议重新登录,音质不能设置为超高
 #  1. 搜索界面 歌单/歌曲可以随意切换完全播放
 #  2. 音乐库已点赞歌曲随意切换完全播放
-
+#  3.（转）https://raw.githubusercontent.com/zwf234/rules/master/js/Spotify.js
 
 ================QuantumultX================
 
 [rewrite_local]
-^https\:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$ url script-response-body https://raw.githubusercontent.com/zwf234/rules/master/js/Spotify.js
+^https\:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$ url script-response-body https://raw.githubusercontent.com/Yw1105/Gx/main/guize/Spotify.js
 
 
 ===================Loon====================
 
 [Script]
-http-response ^https\:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$ script-path=https://raw.githubusercontent.com/zwf234/rules/master/js/Spotify.js, requires-body=true, binary-body-mode=true, timeout=10, tag=spotifyProto
+http-response ^https\:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$ script-path=https://raw.githubusercontent.com/Yw1105/Gx/main/guize/Spotify.js, requires-body=true, binary-body-mode=true, timeout=10, tag=spotifyProto
 
 
 ===================Surge===================
 
 [Script]
-spotify-proto = type=http-response,pattern=^https\:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$,requires-body=1,binary-body-mode=1,max-size=0,script-path=https://raw.githubusercontent.com/zwf234/rules/master/js/Spotify.js,script-update-interval=0
+spotify-proto = type=http-response,pattern=^https\:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$,requires-body=1,binary-body-mode=1,max-size=0,script-path=https://raw.githubusercontent.com/Yw1105/Gx/main/guize/Spotify.js
 
 
 [Mitm]
