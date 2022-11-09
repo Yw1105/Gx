@@ -1,5 +1,5 @@
 /*
-icsew专业版
+picsew专业版
 #[mitm]
 hostname=buy.itunes.apple.com
 */
@@ -8,7 +8,7 @@ obj = {"receipt": {
     "receipt_type": "Production",
     "adam_id": 14789638028,
     "app_item_id": 14789638028,
-    "bundle_id": "com.sugarmo.ScrollClip",
+    "bundle_id": "com.sugarmo.ScrollClip",p
     "application_version": "3082",
     "download_id": 9999999,
     "version_external_identifier": 77777777,
