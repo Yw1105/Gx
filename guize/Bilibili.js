@@ -2,7 +2,7 @@
 [rewrite_local]
   
 # ～ Bilibili大会员（2022-12-05）@ddgksf2013
-^http[s]?:\/\/((app|api)\.(\w{2,15})?\.(com|cn)).*player\.(v3|v2|v1).Play(URL|View).*$ url https://raw.githubusercontent.com/Yw1105/Gx/main/guize/Bilibili.js
+^http[s]?:\/\/((app|api)\.(\w{2,15})?\.(com|cn)).*player\.(v3|v2|v1).Play(URL|View).*$ url script-response-body https://raw.githubusercontent.com/Yw1105/Gx/main/guize/Bilibili.js
 
 
 [mitm] 
