@@ -32,17 +32,10 @@ shadowsocks=sh163.safetelescope.cc:10019, method=aes-256-cfb, password=hGkQ6915t
 
 shadowsocks=sh163.safetelescope.cc:46562, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=新加坡_R_522
 
-shadowsocks=gzyd-01.cctelescope.xyz:62302, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=新加坡_R_251
-
-shadowsocks=gzyd-01.cctelescope.xyz:62303, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=斯洛伐克_R_546
-
 shadowsocks=sh163.safetelescope.cc:62301, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=德国_R_523
 
 shadowsocks=sh163.safetelescope.cc:10007, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=台湾_R_25
 
-shadowsocks=gzyd-01.cctelescope.xyz:62301, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=印度_R_325
-
-shadowsocks=sh163.safetelescope.cc:62302, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=加拿大_R_339
-
-shadowsocks=sh163.safetelescope.cc:62305, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=112248:Nn5xo6IWwH, obfs=tls1.2_ticket_auth, obfs-host=tls1.2_ticket_auth, fast-open=false, udp-relay=false, tag=俄罗斯_R_543
-
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjU5LjY3OjQ0Mw#Amazon%2001
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjE0LjE1Mzo0NDM#Amazon%2002
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjUxLjcxLjI1MTo0NDM#Amazon%2003
