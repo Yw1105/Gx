@@ -5,5 +5,4 @@ shadowsocks=101.132.192.212:30003, method=aes-128-gcm, password=desperadoj.com_f
 
 shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, tag=网易云3
 
-shadowsocks=localhost:17764, method=aes-128-gcm, password=desperadoj.com_free_proxy_etg0, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云4
 
