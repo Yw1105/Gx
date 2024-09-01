@@ -1,0 +1,5 @@
+# 彩云天气，7.20.0版本显示VIP
+
+^https?:\/\/biz\.cyapi\.cn\/api\/v1\/user_detail$ url script-response-body https://raw.githubusercontent.com/wf021325/qx/master/js/caiyun.js
+
+hostname = *.cyapi.cn
